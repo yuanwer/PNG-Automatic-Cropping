@@ -1,17 +1,17 @@
-# PNG Automatic Cropping
+# PNG自动裁剪
 
-A web app to crop transparent edges off PNG images.
+一个用于裁剪PNG图像透明边缘的网页应用。
 
-## Usage
-Visit [PNG Automatic Cropping](https://yuanwer.github.io/PNG-Automatic-Cropping/) to crop your images online.
+## 使用方法
+访问 [PNG自动裁剪](https://yuanwer.github.io/PNG-Automatic-Cropping/) 在线裁剪您的图像。
 
-## Tech Stack
+## 技术
 - HTML5
 - CSS3
 - JavaScript
 
-## Contributing
-Contributions are welcome. Open an issue or submit a pull request.
+## 贡献
+欢迎贡献。请提交问题或拉取请求。
 
-## License
+## 许可证
 MIT
